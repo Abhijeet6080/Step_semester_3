@@ -1,4 +1,4 @@
-package abstraction_interfaces.assignment_problems;
+package week_9.class_problems;
 
 abstract class Connection {
     protected int units;
